@@ -19,6 +19,7 @@
 |191|[ Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 |225|[ Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[Java](./solutions/225.%20Implement%20Stack%20using%20Queues.java)|0 ms|
+|232|[ Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Java](./solutions/232.%20Implement%20Queue%20using%20Stacks.java)|0 ms|
 |234|[ Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 |258|[ Add Digits](https://leetcode.com/problems/add-digits/)
 |389|[ Find the Difference](https://leetcode.com/problems/find-the-difference/)
