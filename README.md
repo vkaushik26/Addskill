@@ -23,5 +23,6 @@
 |234|[ Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 |258|[ Add Digits](https://leetcode.com/problems/add-digits/)
 |389|[ Find the Difference](https://leetcode.com/problems/find-the-difference/)
+|503|[ Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Java](./solutions/503.%20Next%20Greater%20Element%20II.java)|12 ms|
 |976|[ Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)
 |1342|[ Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
