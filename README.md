@@ -13,6 +13,7 @@
 |125|[ Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 |147|[ Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
 |148|[ Sort List](https://leetcode.com/problems/sort-list/)
+|155|[ Min Stack](https://leetcode.com/problems/min-stack/)|[Java](./solutions/155.%20Min%20Stack.java)|4 ms|
 |169|[ Majority Element](https://leetcode.com/problems/majority-element/)
 |179|[ Largest Number](https://leetcode.com/problems/largest-number/)
 |191|[ Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
