@@ -5,6 +5,7 @@
 |1|[ Two Sum](https://leetcode.com/problems/two-sum/)
 |2|[ Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 |14|[ Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+|21|[ Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Java](./solutions/21.%20Merge%20Two%20Sorted%20Lists.java)|0 ms|
 |26|[ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 |56|[ Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Java](./solutions/56.%20Merge%20Intervals.java)|5 ms|
 |74|[ Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
