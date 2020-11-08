@@ -17,5 +17,6 @@
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](./solutions/206.%20Reverse%20Linked%20List.java)|0 ms|
 |234|[ Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Java](./solutions/234.%20Palindrome%20Linked%20List.java)|1 ms|
 |258|[ Add Digits](https://leetcode.com/problems/add-digits/)|[Java](./solutions/258.%20Add%20Digits.java)|1 ms|
+|389|[ Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Java](./solutions/389.%20Find%20the%20Difference.java)|1 ms|
 |976|[ Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[Java](./solutions/976.%20Largest%20Perimeter%20Triangle.java)|6 ms|
 |1342|[ Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Java](./solutions/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.java)|0 ms|
