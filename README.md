@@ -6,6 +6,7 @@
 |2|[ Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 |14|[ Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 |26|[ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+|56|[ Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Java](./solutions/56.%20Merge%20Intervals.java)|5 ms|
 |74|[ Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 |75|[ Sort Colors](https://leetcode.com/problems/sort-colors/)
 |83|[ Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
