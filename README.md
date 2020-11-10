@@ -34,6 +34,7 @@
 |387|[ First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Java](./solutions/387.%20First%20Unique%20Character%20in%20a%20String.java)|21 ms|
 |389|[ Find the Difference](https://leetcode.com/problems/find-the-difference/)
 |430|[ Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|[Java](./solutions/430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.java)|0 ms|
+|438|[ Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Java](./solutions/438.%20Find%20All%20Anagrams%20in%20a%20String.java)|8 ms|
 |503|[ Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Java](./solutions/503.%20Next%20Greater%20Element%20II.java)|12 ms|
 |976|[ Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)
 |1342|[ Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
