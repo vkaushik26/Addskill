@@ -12,6 +12,7 @@
 |35|[ Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](./solutions/35.%20Search%20Insert%20Position.java)|0 ms|
 |36|[ Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Java](./solutions/36.%20Valid%20Sudoku.java)|14 ms|
 |42|[ Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Java](./solutions/42.%20Trapping%20Rain%20Water.java)|1 ms|
+|49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Java](./solutions/49.%20Group%20Anagrams.java)|6 ms|
 |56|[ Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Java](./solutions/56.%20Merge%20Intervals.java)|5 ms|
 |74|[ Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 |75|[ Sort Colors](https://leetcode.com/problems/sort-colors/)
