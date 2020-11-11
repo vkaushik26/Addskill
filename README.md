@@ -37,5 +37,6 @@
 |438|[ Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Java](./solutions/438.%20Find%20All%20Anagrams%20in%20a%20String.java)|8 ms|
 |463|[ Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Java](./solutions/463.%20Island%20Perimeter.java)|5 ms|
 |503|[ Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Java](./solutions/503.%20Next%20Greater%20Element%20II.java)|12 ms|
+|609|[ Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)|[Java](./solutions/609.%20Find%20Duplicate%20File%20in%20System.java)|94 ms|
 |976|[ Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)
 |1342|[ Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
