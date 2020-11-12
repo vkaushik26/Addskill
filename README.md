@@ -17,6 +17,7 @@
 |74|[ Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 |75|[ Sort Colors](https://leetcode.com/problems/sort-colors/)
 |83|[ Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+|100|[ Same Tree](https://leetcode.com/problems/same-tree/)|[Java](./solutions/100.%20Same%20Tree.java)|0 ms|
 |121|[ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 |125|[ Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 |147|[ Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
