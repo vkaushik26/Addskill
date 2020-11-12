@@ -42,4 +42,5 @@
 |739|[ Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Java](./solutions/739.%20Daily%20Temperatures.java)|17 ms|
 |811|[ Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)|[Java](./solutions/811.%20Subdomain%20Visit%20Count.java)|183 ms|
 |976|[ Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)
+|1002|[ Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[Java](./solutions/1002.%20Find%20Common%20Characters.java)|6 ms|
 |1342|[ Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
