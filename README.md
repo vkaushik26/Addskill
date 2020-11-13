@@ -29,6 +29,7 @@
 |148|[ Sort List](https://leetcode.com/problems/sort-list/)
 |155|[ Min Stack](https://leetcode.com/problems/min-stack/)|[Java](./solutions/155.%20Min%20Stack.java)|4 ms|
 |169|[ Majority Element](https://leetcode.com/problems/majority-element/)
+|173|[ Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Java](./solutions/173.%20Binary%20Search%20Tree%20Iterator.java)|14 ms|
 |179|[ Largest Number](https://leetcode.com/problems/largest-number/)
 |191|[ Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
