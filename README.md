@@ -44,6 +44,7 @@
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](./solutions/242.%20Valid%20Anagram.java)|3 ms|
 |258|[ Add Digits](https://leetcode.com/problems/add-digits/)
 |337|[ House Robber III](https://leetcode.com/problems/house-robber-iii/)|[Java](./solutions/337.%20House%20Robber%20III.java)|0 ms|
+|347|[ Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Java](./solutions/347.%20Top%20K%20Frequent%20Elements.java)|10 ms|
 |378|[ Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[Java](./solutions/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.java)|21 ms|
 |387|[ First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Java](./solutions/387.%20First%20Unique%20Character%20in%20a%20String.java)|21 ms|
 |389|[ Find the Difference](https://leetcode.com/problems/find-the-difference/)
