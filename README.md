@@ -17,6 +17,7 @@
 |74|[ Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 |75|[ Sort Colors](https://leetcode.com/problems/sort-colors/)
 |83|[ Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+|98|[ Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Java](./solutions/98.%20Validate%20Binary%20Search%20Tree.java)|0 ms|
 |100|[ Same Tree](https://leetcode.com/problems/same-tree/)|[Java](./solutions/100.%20Same%20Tree.java)|0 ms|
 |102|[ Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Java](./solutions/102.%20Binary%20Tree%20Level%20Order%20Traversal.java)|0 ms|
 |104|[ Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Java](./solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.java)|0 ms|
